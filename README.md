@@ -1,4 +1,4 @@
-# Text-Relevancy
+# Text-Similarity
 Goal of the project is to find the text relevancy between two piece of text and calculate scores.
 
 ## Text Relevancy
